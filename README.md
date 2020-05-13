@@ -1,3 +1,5 @@
 # Hello-world
 Week 04 task
-Java is hard
+cats like typing on keyboards
+=======
+Java is hard but I will do this
